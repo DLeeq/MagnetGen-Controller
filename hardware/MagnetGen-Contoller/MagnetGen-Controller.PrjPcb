@@ -82,6 +82,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GYALDEKY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MagnetGen-Controller\Design Rule Check - PCB_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=PCB\MessageListReport.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
