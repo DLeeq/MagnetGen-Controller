@@ -1,10 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Github\MagnetGen-Controller\hardware\MagnetGen-Contoller\PCB\PCB_V1.PcbDoc
 Date     : 04.02.2026
-Time     : 11:41:45
-
-WARNING: Unplated multi-layer pad(s) detected
-   Pad U5-2(46.88mm,110.85mm) on Multi-Layer on Net GND
+Time     : 14:17:15
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -18,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.2mm) (All)
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.2mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.5mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -48,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
