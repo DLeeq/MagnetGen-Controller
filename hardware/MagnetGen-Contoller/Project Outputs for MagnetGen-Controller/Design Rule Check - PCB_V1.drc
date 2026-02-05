@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Github\MagnetGen-Controller\hardware\MagnetGen-Contoller\PCB\PCB_V1.PcbDoc
 Date     : 05.02.2026
-Time     : 13:35:48
+Time     : 15:20:28
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -39,10 +39,10 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (HasFootprint('SSOP-28N')),(HasFootprint('SSOP-28N'))
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (HasFootprint('SSOP-28N')),(HasFootprint('SSOP-28N'))
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
