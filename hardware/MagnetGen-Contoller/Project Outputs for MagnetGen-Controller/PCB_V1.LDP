@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Github\MagnetGen-Controller\hardware\MagnetGen-Contoller\PCB\PCB_V1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_v1.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_v1-rectholes.txt|DrillLayers=gtl,gbl
