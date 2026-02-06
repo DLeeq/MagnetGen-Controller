@@ -1,0 +1,20 @@
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C1210"; UniqueID = "\EDLJRLWH" ("\EDLJRLWH")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C1210"; UniqueID = "\REZSHZUM" ("\REZSHZUM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0402"; UniqueID = "\YTZEGSLW" ("\YTZEGSLW")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDUCTOR 2x1.6mm VLS-CX"; UniqueID = "\LDRNYECG" ("\LDRNYECG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0402"; UniqueID = "\UJVSWAYR" ("\UJVSWAYR")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0402"; UniqueID = "\HLMKVXFL" ("\HLMKVXFL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0402"; UniqueID = "\CPLCXIZE" ("\CPLCXIZE")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "IP2312 Modul"; UniqueID = "\ZNNXIHPX" ("\ZNNXIHPX")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "VSON-HR-10(3x2)"; UniqueID = "\OMLNJJGN" ("\OMLNJJGN")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "CWF-2R (DS1069-2 MR)"; UniqueID = "\BYCEJUDJ" ("\BYCEJUDJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "impulse reg"; VariantName = "[No Variations]"
